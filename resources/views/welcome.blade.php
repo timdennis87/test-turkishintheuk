@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Turkish In The UK
                 </div>
 
                 <div class="links">

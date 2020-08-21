@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="981019be-8344-4e3c-8672-25bec5a704aa" name="test-turkishintheuk" url="http://pixlquick.com">
+        <fileTransfer rootFolder="/test-turkishintheuk" host="pixlquick.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
