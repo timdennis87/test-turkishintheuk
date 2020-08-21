@@ -25,7 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b667fa3-84c4-4773-8a94-d4c025855b47" name="Default Changelist" comment="">
+    <list default="true" id="1b667fa3-84c4-4773-8a94-d4c025855b47" name="Default Changelist" comment="New changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598019186031</updated>
-      <workItem from="1598019190354" duration="1588000" />
+      <workItem from="1598019190354" duration="2211000" />
     </task>
+    <task id="LOCAL-00001" summary="New changes">
+      <created>1598023642393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598023642394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,11 +104,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changes" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2000" y="-70" key="#Deployment" timestamp="1598023424728">
       <screen x="1440" y="-275" width="1920" height="1080" />
     </state>
     <state x="2000" y="-70" key="#Deployment/0.0.1440.900/1440.-275.1920.1080@1440.-275.1920.1080" timestamp="1598023424728" />
+    <state x="2000" y="12" key="Vcs.Push.Dialog.v2" timestamp="1598023649913">
+      <screen x="1440" y="-252" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="12" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-252.1920.1057@1440.-252.1920.1057" timestamp="1598023649913" />
     <state x="2307" y="-78" width="414" height="685" key="ftp.server.browser" timestamp="1598023417857">
       <screen x="1440" y="-275" width="1920" height="1080" />
     </state>
